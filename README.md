@@ -1,2 +1,7 @@
 # Mini-Stepper-Motor-Elevator
-Custom project build for a Sensing and Data Actuation course (EE128) at UC Riverside
+Uses the FRDM-K64F development board for stepper motor controls and the Arduino Uno for button inputs and LED light indicators.
+
+There are 3 "floors" to the mini-elevator and there is call/summon button on each floor for the elevator. Floor selection buttons are found outside of the elevator 
+for ease of access since it is a mini-elevator.
+
+video demo (YouTube): https://youtu.be/oe-E6vhue2o
