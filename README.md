@@ -5,3 +5,5 @@ There are 3 "floors" to the mini-elevator and there is call/summon button on eac
 for ease of access since it is a mini-elevator.
 
 video demo (YouTube): https://youtu.be/oe-E6vhue2o
+
+note: actual elevator chamber was left outside to reduce strain on the stepper motor, and is represented by a much lighter single piece of cardboard. 
